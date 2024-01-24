@@ -11,6 +11,20 @@ blip2，wd14 tagger和deepdanbooru 三种image caption方法在动漫图片上�
 
 ### 测试结果
 wd14 tagger和deepdanbooru的threshold设置为0.5， 标签按得分降序输出
+<style>
+table th:first-of-type {
+    width: 30%;
+}
+table th:nth-of-type(2) {
+    width: 10%;
+}
+table th:nth-of-type(3) {
+    width: 30%;
+}
+table th:nth-of-type(4) {
+    width: 30%;
+}
+</style>
 
 |  图片   | blip2  |  wd14 tagger   | deepdanbooru  |
 |  ----  | ----  |----  | ----  |
