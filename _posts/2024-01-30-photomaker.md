@@ -14,6 +14,7 @@ Stable Diffusion（简称SD）存在一个缺点，那就是不能生成某个�
 
 # PhotoMaker是怎么做的
 方法的核心在于不少工作指出一个特定对象的信息在SD中能够用少数的token进行表示。
+![photomaker](/assets/photomaker.png)
 # 和其他方案的对比
 
 # 总结和思考
